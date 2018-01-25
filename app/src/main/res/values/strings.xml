@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">longana</string>
+    <string name="welcome_to_a_game_of_longana">Welcome to a Game of Longana</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="save_game">SAVED GAME</string>
+    <string name="l">L</string>
+    <string name="r">R</string>
+    <string name="pass_turn">Pass Turn</string>
+    <string name="help">HELP</string>
+    <string name="computer_hand">Computer Hand:</string>
+    <string name="your_hand">Your Hand:</string>
+    <string name="quit">Quit</string>
+    <string name="play_tournament">Play Tournament</string>
+    <string name="tournament_score">Tournament Score :</string>
+    <string name="round">Round # :</string>
+    <string name="ex3">ex3</string>
+    <string name="ex">ex</string>
+    <string name="ex2">ex2</string>
+</resources>
